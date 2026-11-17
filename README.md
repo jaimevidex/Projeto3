@@ -1,8 +1,7 @@
-# Projeto3 — Vault Burglary
+# Vault Burglary
 
 A **maximum-flow** problem in disguise: how many gold bars can a crew carry out of a vault before the guards close every route? Solved with Dinic's algorithm and **vertex splitting**.
 
-Written in Java for the *Análise e Desenho de Algoritmos* course at Instituto Superior Técnico.
 
 ## The problem
 
@@ -66,4 +65,4 @@ A working example is in `src/tests.txt`.
 | `src/Main.java` | Input parsing and output |
 | `src/EscapeRoutes.java` | Graph construction, node splitting, Dinic |
 | `src/Edge.java` | Flow edge with residual pointer |
-| `Vault Burglary.pdf` | Original assignment statement |
+| `problem-statement.pdf` | Problem statement |
